@@ -1,0 +1,36 @@
+[
+    {
+        "id": "1",
+        "title": "Pampers",
+        "rating": 3.0,
+        "photoUrl": [
+            "https://i5.walmartimages.com/asr/3656689e-71ac-4517-80be-c0cc700e9f80.130d12bcb99aa3b467669a393ddc5ebd.jpeg?odnWidth=408&odnHeight=408&odnBg=ffffff",
+            "https://i5.walmartimages.com/asr/224d1d24-7ec6-4cf8-b442-d30a20508c03.45fd3e7fd2330f900bc65322b1fdaa2e.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+            "https://i5.walmartimages.com/asr/0b73e747-7a9e-4864-9d87-8ee376ee8654.6dbc62a2cbc07d4a57556103251b66b0.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+        ],
+        "price": 8.97,
+        "description": "aaa"
+    },
+    {
+        "id": "2",
+        "title": "Pampers Pure",
+        "rating": 4.5,
+        "photoUrl": [
+            "https://i5.walmartimages.com/asr/d178b8d0-f263-4f97-a2a2-00d76e16ebe8.d0f54100942e3116f3e7446c1929b52d.jpeg?odnWidth=408&odnHeight=408&odnBg=ffffff",
+            "https://i5.walmartimages.com/asr/d8ba4162-6f43-48e6-8331-a3e79f3decf7.38dea95c27a9dbeb0cf1b525c1c81bc7.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff",
+            "https://i5.walmartimages.com/asr/3ef9d78d-a29b-49f5-bd27-b0d7ccf0700c.24b645d8c9487ac787df7ccc34423e46.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+        ],
+        "price": 8.50,
+        "description": "aaa"
+    },
+    {
+        "photoUrl": [
+            "https://i5.walmartimages.com/asr/64fe5b3e-4517-4b68-9f8b-51e0a7d2c09a.1f572b8ea58fe6f3e33b6306c7d2f466.jpeg?odnWidth=408&odnHeight=408&odnBg=ffffff"
+        ],
+        "id": "3",
+        "title": "Huggies",
+        "rating": 2.5,
+        "price": 7.90,
+        "description": "aaa"
+    }
+]
